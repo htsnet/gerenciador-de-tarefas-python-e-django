@@ -3,7 +3,7 @@ Django==2.2.4
 django-heroku==0.3.1
 gunicorn==20.0.4
 mysql-client==0.0.1
-mysqlclient @ file:///C:/Users/hamil/Dropbox/CursosETestes/TreinaWeb/PythonDjango/mysqlclient-1.4.6-cp38-cp38-win_amd64.whl
+mysqlclient==1.4.6
 mysqlparse==0.1.6
 psycopg2==2.8.5
 pyparsing==2.4.7
